@@ -1,6 +1,6 @@
 # WK1JSPRACTICE
 
-##PROGRAMS ENTAILED
+## PROGRAMS ENTAILED
 
 * Student Grade Generator(Toy Problem)
 * Speed Detector (Toy Problem)
